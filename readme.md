@@ -11,4 +11,6 @@ To generate this cgMLST scheme, we used a collection of 4509 _Salmonella_ Heidel
 
 The pangenomic analysis identified 8558 loci to be used in the wgMLST scheme. Of these, 2358 were core loci and included in the cgMLST scheme. If the threshold for inclusion in the core genome is tightened to 100%, the number of core loci falls to 290, and if it is relaxed to 95%, it expands to 3690.
 
+![Loci vs Threshold][figures/s-heidelberg_threshold-vs-loci.svg]
+
 [1] https://github.com/B-UMMI/chewBBACA
