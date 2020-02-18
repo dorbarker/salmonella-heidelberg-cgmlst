@@ -13,4 +13,6 @@ The pangenomic analysis identified 8558 loci to be used in the wgMLST scheme. Of
 
 ![Loci vs Threshold](figures/s-heidelberg_threshold-vs-loci.svg)
 
+
+## Reference
 [1] https://github.com/B-UMMI/chewBBACA
